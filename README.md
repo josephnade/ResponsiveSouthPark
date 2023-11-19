@@ -12,7 +12,7 @@ This Android application, ResponsiveSouthPark, provides a responsive user interf
 1. Clone the project to your computer or download it as a ZIP file.
 
     ```bash
-    git clone https://github.com/your_username/responsive-south-park.git
+    git clone https://github.com/josephnade/responsiveSouthPark.git
     cd responsive-south-park
     ```
 
@@ -25,10 +25,10 @@ This Android application, ResponsiveSouthPark, provides a responsive user interf
 ## Screenshots
 
 ### Landscape Mode (Horizontal)
-![ResponsiveSouthPark Landscape Screenshot](landscape_screenshot.png)
+<img src="readme-assets/landscape.png" alt="Responsive App Screenshot" height=800 width=400>
 
 ### Portrait Mode (Vertical)
-![ResponsiveSouthPark Portrait Screenshot](portrait_screenshot.png)
+<img src="readme-assets/portrait.png" alt="Responsive App Screenshot" height=800 width=400>
 
 ## Technologies
 
