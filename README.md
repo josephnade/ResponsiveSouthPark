@@ -41,7 +41,7 @@ The app utilizes responsive design techniques to provide an optimized layout for
 
 ## Contribution
 
-Contributions and feedback are welcome. If you have questions or suggestions, please [contact us](mailto:example@mail.com).
+Contributions and feedback are welcome. If you have questions or suggestions, please [contact us](mailto:yusuf.akn2017@gmail.com).
 
 ---
 
