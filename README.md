@@ -25,7 +25,7 @@ This Android application, ResponsiveSouthPark, provides a responsive user interf
 ## Screenshots
 
 ### Landscape Mode (Horizontal)
-<img src="readme-assets/landscape.png" alt="Responsive App Screenshot" height=800 width=400>
+<img src="readme-assets/landscape.png" alt="Responsive App Screenshot" height=400 width=800>
 
 ### Portrait Mode (Vertical)
 <img src="readme-assets/portrait.png" alt="Responsive App Screenshot" height=800 width=400>
